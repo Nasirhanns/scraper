@@ -2,11 +2,17 @@
 
 # JannDevs
 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=Hi,+Welcoms+to+this+package">
+</p>
   
   <img src="http://github.com/JannDevs.png" alt="JannDevs" width="150" />
-  
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=It's+me+JannDevs;I'm+still+learning+to+be+a+Master">
+</p>
+
+</div>
 
 ```rb
 - 👋 Hi, I’m JannDevs-!
@@ -15,6 +21,8 @@
 - 💞️ I am single
 - I'm currently focusing on WhatsApp Botting
 ```
+
+<div align="center">
 
 ## jann-scraper
 
@@ -36,11 +44,9 @@
 This Module for The APIs Library or WhatsApp Bot
 
 # Installation
-```bash
 > $ npm install jann-scraper
 > $ yarn add jann-scraper
 > $ sudo install jann-scraper
-```
 
 # Features
 ### Downloader
@@ -78,24 +84,34 @@ bentar
 ```
 ---
 # Thanks To
-[![Dann](http://github.com/DannOfficial.png?size=50)](http://github.com/DannOfficial) | <a href="http://github.com/xfarr05"><img src="http://github.com/xfarr05.png?size=50" width="50" height="50"></a>
+| <a href="http://github.com/DannOfficial"><img src="http://github.com/DannOfficial.png?size=50" width="50" height="50"> | <a href="http://github.com/xfarr05"><img src="http://github.com/xfarr05.png?size=50" width="50" height="50"></a>
 ----|----|----
 [DannOfficial](http://github.com/DannOfficial) |[Xfarr](http://github.com/xfarr05)
 Base | Readme
+
 ### Other
-- Tio
-- Erlan
-- Xfar
-- Shanz
-- Vielvyn
-- Kaviaann
-- Tanaka
-- Hann
-- Qanypaw
-- Siputz
-- Sanzy
-- Daffa
-- Amirul
+| No | Dev Name |
+|------|------------------|
+| 1. | [Tio](https://) |
+| 2. | [Erlan](https://dhn-api.herokuapp.com/api) |
+| 3. | [Shannz](https://) |
+| 4. | [Amirul](https://) |
+| 5. | [Daffa](https://) |
+| 6. | [Siputz](https://) |
+| 7. | [Sanzy](https://) |
+| 8. | [Yanz](https://) |
+| 9. | [Yupra](https://) |
+| 10. | [Tanaka](https://) |
+| 11. | [Kaviaann](https://) |
+| 12. | [Vielyn](https://) |
+| 13. | [Avosky](https://) |
+| 14. | [Qanypaw](https://) |
+| 15. | [Kyuurzy](https://) |
+| 16. | [Agatz](https://) |
+| 17. | [Ifung](https://) |
+| 18. | [Hann](https://) |
+| 19. | [Arifzyn](https://) |
+| 20. | [Lenwy](https://) |
 
 <div align="center">
 
@@ -125,6 +141,6 @@ If you have any feedback, please reach out to us at
   </a>
 
 # Donation
-Saweria : [Click](https://www.saweria.co/itsmejann)
-Trakteer :[Click](https://www.trakteer.id/JannDevs)
-QRIS : [Click](https://api.betabotz.eu.org/api/tools/get-upload?id=f/23jc7siz.jpg)
+* Saweria : [Click](https://www.saweria.co/itsmejann)
+* Trakteer :[Click](https://www.trakteer.id/JannDevs)
+* QRIS : [Click](https://api.betabotz.eu.org/api/tools/get-upload?id=f/23jc7siz.jpg)
