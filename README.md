@@ -85,60 +85,47 @@ bentar
 ---
 # Thanks To
 | <a href="http://github.com/DannOfficial"><img src="http://github.com/DannOfficial.png?size=50" width="50" height="50"> | <a href="http://github.com/xfarr05"><img src="http://github.com/xfarr05.png?size=50" width="50" height="50"></a>
-----|----|----
+|----|----|
 [DannOfficial](http://github.com/DannOfficial) |[Xfarr](http://github.com/xfarr05)
 Base | Readme
 
 ### Other
-| No | Dev Name |
-|------|------------------|
-| 1. | [Tio](https://) |
-| 2. | [Erlan](https://dhn-api.herokuapp.com/api) |
-| 3. | [Shannz](https://) |
-| 4. | [Amirul](https://) |
-| 5. | [Daffa](https://) |
-| 6. | [Siputz](https://) |
-| 7. | [Sanzy](https://) |
-| 8. | [Yanz](https://) |
-| 9. | [Yupra](https://) |
-| 10. | [Tanaka](https://) |
-| 11. | [Kaviaann](https://) |
-| 12. | [Vielyn](https://) |
-| 13. | [Avosky](https://) |
-| 14. | [Qanypaw](https://) |
-| 15. | [Kyuurzy](https://) |
-| 16. | [Agatz](https://) |
-| 17. | [Ifung](https://) |
-| 18. | [Hann](https://) |
-| 19. | [Arifzyn](https://) |
-| 20. | [Lenwy](https://) |
+| No | Dev Name | Website |
+|-----|-----|-----|
+| 1. | Tio | [CLICK HERE](https://) |
+| 2. | Erlan | [CLICK HERE](https://dhn-api.herokuapp.com/api) |
+| 3. | Shannz | [CLICK HERE](https://) |
+| 4. | Amirul | [CLICK HERE](https://) |
+| 5. | Daffa | [CLICK HERE](https://) |
+| 6. | Putu | [CLICK HERE](https://) |
+| 7. | Sanzy | [CLICK HERE](https://) |
+| 8. | Yanz | [CLICK HERE](https://) |
+| 9. | Yupra | [CLICK HERE](https://) |
+| 10. | Tanaka | [CLICK HERE](https://) |
+| 11. | Kaviaann | [CLICK HERE](https://) |
+| 12. | Vielvyn | [CLICK HERE](https://) |
+| 13. | Avosky | [CLICK HERE](https://) |
+| 14. | Qanypaw | [CLICK HERE](https://) |
+| 15. | Kyuurzy | [CLICK HERE](https://) |
+| 16. | Agatz | [CLICK HERE](https://) |
+| 17. | Ifung | [CLICK HERE](https://) |
+| 18. | Hann | [CLICK HERE](https://) |
+| 19. | Arifzyn | [CLICK HERE](https://) |
+| 20. | Lenwy | [CLICK HERE](https://) |
 
 <div align="center">
 
 # Feedback
 If you have any feedback, please reach out to us at
 
-<p align="center">
-  <a href="https://instagram.com/janukiwill"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/janukiwill"><img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6285135051337"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+  <a href="https://t.me/JannTmvn"><img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white"/> 
+  <a href="https://youtube.com/@JNOffc"><img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" /><br>
 
-  
 </div>
 
-
 ---
-<a href="https://instagram.com/janukiwill" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-<a href="https://t.me/JannTmvn" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Telegram"/>
-  </a>
-<a href="https://youtube.com/JNOffc" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
-  </a>
-<a href="https://wa.me/6285135051338?text=haii" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
-  </a>
 
 # Donation
 * Saweria : [Click](https://www.saweria.co/itsmejann)
