@@ -1,31 +1,50 @@
 {
   "name": "jann-scraper",
-  "version": "1.0.0-beta.1",
-  "description": "The Library scraper for WhatsApp bot",
+  "version": "0.0.7",
+  "description": "Free Library scraper for Rest Api or WhatsApp bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://gihub.com/JannDevs/scraper"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
   },
   "keywords": [
-    "api",
+    "web-scraping",
+    "whatsapp-bot",
+    "web-scrape",
     "scrape",
     "scraper",
     "jann-scraper",
-    "JannDevs"
+    "rest-api",
+    "restfull-api"
   ],
-  "author": "JannDevs",
-  "license": "GPL-3.0-or-later",
+  "author": {
+    "name": "JannDevs"
+  },
+  "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.1",
-    "chalk": "^4.1.1",
+    "axios": "^1.6.2",
     "cheerio": "^1.0.0-rc.12",
-    "node-fetch": "^2.6.7",
-    "yt-search": "^2.10.4",
-    "ytdl-core": "^4.11.5"
-  }
+    "child_process": "^1.0.2",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.9"
+  },
+  "devDependencies": {
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.3"
+  },
+  "registries": {
+    "npm": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gihub.com/JannDevs/scraper.git"
+  },
+  "directoies": {
+    "lib": "lib",
+    "dist": "dist"
+  },
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  },
 }
