@@ -24,48 +24,17 @@
 
 <div align="center">
 
-## jann-scraper
-
 </div>
 
-<p align="center">
-<a href="#"><img title="jann-scraper" src="https://img.shields.io/static/v1?label=package&message=kotz-api&color=red"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/JannDevs"><img title="Author" src="https://img.shields.io/badge/Kotz-red.svg?style=for-the-badge&logo=github" /></a>
-</p>
-<p align="center">
-  <a href="https://instagram.com/janukiwill"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285135051337"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
-</p>
-
 ---
-
-This Module for The APIs Library or WhatsApp Bot
-
+    
 # Installation
 > $ npm install jann-scraper
-> $ yarn add jann-scraper
+> 
+> $ pnpm install jann-scraper
+> 
 > $ sudo install jann-scraper
 
-# Features
-### Downloader
-```js
-module.exports = {
-  youtube,
-  tiktok,
-  instagram
-} = require('jann-scraper');
-```
-### Artifical Intelegence (AI)
-```ts
-module.exports = {
-  jann,
-  lepton,
-  zeta
-} = require('jann-scraper');
-```
----
 # Example Usage
 ```js
 // ECMAScript Module (ESM) Syntax
@@ -83,21 +52,17 @@ return ai // JSON
 bentar
 ```
 ---
-# Thanks To
-| <a href="http://github.com/DannOfficial"><img src="http://github.com/DannOfficial.png?size=50" width="50" height="50"> | <a href="http://github.com/xfarr05"><img src="http://github.com/xfarr05.png?size=50" width="50" height="50"></a>
-|----|----|
-[DannOfficial](http://github.com/DannOfficial) |[Xfarr](http://github.com/xfarr05)
-Base | Readme
+# Features
+### Downloader
+```js
+module.exports = {
+  youtube,
+  tiktok,
+  instagram
+} = require('jann-scraper');
+```
+### Artifical Intelegence (AI)
 
-### Other
-| No | Dev Name | Website |
-|-----|-----|-----|
-| 1. | Tio | [CLICK HERE](https://) |
-| 2. | Erlan | [CLICK HERE](https://dhn-api.herokuapp.com/api) |
-| 3. | Shannz | [CLICK HERE](https://) |
-| 4. | Amirul | [CLICK HERE](https://) |
-| 5. | Daffa | [CLICK HERE](https://) |
-| 6. | Putu | [CLICK HERE](https://) |
 | 7. | Sanzy | [CLICK HERE](https://) |
 | 8. | Yanz | [CLICK HERE](https://) |
 | 9. | Yupra | [CLICK HERE](https://) |
@@ -112,6 +77,16 @@ Base | Readme
 | 18. | Hann | [CLICK HERE](https://) |
 | 19. | Arifzyn | [CLICK HERE](https://) |
 | 20. | Lenwy | [CLICK HERE](https://) |
+| 21. | Xyzen | [CLICK HERE](https://) |
+| 22. | Yuki | [CLICK HERE](https://) |
+| 23. | Blueline | [CLICK HERE](https://) |
+| 24. | Botza | [CLICK HERE](https://) |
+| 25. | Zenith | [CLICK HERE](httpz://) |
+| 26. | Zanixon | [CLICK HERE](https://) |
+| 27. | MannR | [CLICK HERE](https://) |
+| 28. | Vreden | [CLICK HERE](httpz://) |
+| 29. | Ibeng | [CLICK HERE](https://) |
+| 30. | Erdwepe | [CLICK HERE](https://) |
 
 <div align="center">
 
@@ -129,5 +104,5 @@ If you have any feedback, please reach out to us at
 
 # Donation
 * Saweria : [Click](https://www.saweria.co/itsmejann)
-* Trakteer :[Click](https://www.trakteer.id/JannDevs)
+* Trakteer : [Click](https://www.trakteer.id/JannDevs)
 * QRIS : [Click](https://api.betabotz.eu.org/api/tools/get-upload?id=f/23jc7siz.jpg)
