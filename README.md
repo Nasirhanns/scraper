@@ -24,6 +24,8 @@
 
 <div align="center">
 
+## jann-scraper
+This Module for The APIs Library or WhatsApp Bot
 </div>
 
 ---
@@ -62,7 +64,29 @@ module.exports = {
 } = require('jann-scraper');
 ```
 ### Artifical Intelegence (AI)
+```ts
+module.exports = {
+  jann,
+  lepton,
+  zeta
+} = require('jann-scraper');
+```
+---
+# Thanks To
+| <a href="http://github.com/DannOfficial"><img src="http://github.com/DannOfficial.png?size=100" width="100" height="100"> | <a href="http://github.com/xfarr05"><img src="http://github.com/xfar05.png?size=100" width="100" height="100"></a>
+|----|----|
+[DannOfficial](http://github.com/DannOfficial) |[Xfar](http://github.com/xfar05)
+Base | Readme
 
+### Other
+| No | Dev Name | Website |
+|-----|-----|-----|
+| 1. | Tio | [CLICK HERE](https://) |
+| 2. | Erlan | [CLICK HERE](https://dhn-api.herokuapp.com/api) |
+| 3. | Shannz | [CLICK HERE](https://) |
+| 4. | Amirul | [CLICK HERE](https://) |
+| 5. | Daffa | [CLICK HERE](https://) |
+| 6. | Putu | [CLICK HERE](https://) |
 | 7. | Sanzy | [CLICK HERE](https://) |
 | 8. | Yanz | [CLICK HERE](https://) |
 | 9. | Yupra | [CLICK HERE](https://) |
